@@ -282,6 +282,13 @@ body{
                 }
             }
         }
+
+        .creador{
+            margin:auto;
+            display:flex;
+            flex-direction: column;
+            
+        }
     }
 }
 
@@ -323,10 +330,9 @@ body{
 
         .creador{
             margin:auto;
-            width: 100%;
             display:flex;
-            align-items: center;
-            justify-content:space-around;
+            flex-direction: column;
+            
         }
     }
 }
