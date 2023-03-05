@@ -197,7 +197,7 @@ body {
     padding: 1rem;
   }
 }
-@media (min-width: 1200px) {
+@media (max-width: 1200px) and (min-width: 1200px) {
   .contenedor .contenido .galeria .post:nth-child(1) {
     grid-row: 1/5;
     grid-column-start: span 1;
