@@ -167,6 +167,18 @@ body{
 }
 
 
+@media (max-width: 543px){
+    .contenedor{
+        .contenido{
+            .bienvenidos{
+                .capa{
+                    visibility: hidden;
+                }
+            }
+        }
+    }   
+}
+
 @media (max-width: 768px){
     .contenedor{
         .nav{
