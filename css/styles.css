@@ -166,7 +166,7 @@ body {
   grid-row-start: span 3;
 }
 
-@media (max-width: 340px) {
+@media (max-width: 768px) {
   .contenedor .nav .logo-page h1 {
     font-size: 2rem;
   }
